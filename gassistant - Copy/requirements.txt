@@ -1,0 +1,15 @@
+google-generativeai>=0.8.4
+vertexai>=1.0.0
+google-cloud-aiplatform>=1.0.0
+colorama
+prompt_toolkit
+rich
+requests
+google-ai-generativelanguage
+google-api-core
+google-api-python-client
+google-auth
+protobuf
+pydantic
+tqdm
+typing-extensions
